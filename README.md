@@ -1,2 +1,2 @@
-# AD_subtyping
-Extract  subtyping of neurodegeneration patterns for AD from Neuroimge-Derived  features
+# FTP Subtyping
+Extract subtyping of neurodegeneration patterns for FTD from Neuroimge-Derived features
